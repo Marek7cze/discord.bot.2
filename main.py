@@ -23,7 +23,7 @@ threading.Thread(target=run_web, daemon=True).start()
 # ==============================
 # DISCORD SETUP
 # ==============================
-GUILD_ID = YOUR_GUILD_ID  # Replace this
+GUILD_ID = 1247900579586642021  # Replace this
 
 GUILD_OBJECT = discord.Object(id=GUILD_ID)
 
